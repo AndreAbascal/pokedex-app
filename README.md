@@ -1,7 +1,7 @@
 
 ---
 
-### 📱 Projeto 02 – `pokeapi-app/README.md`
+### 📱 Project for POKEAPI React Native APP
 
 ```markdown
 # 📱 PokeAPI App RN
@@ -13,7 +13,6 @@ React Native mobile application built with Expo, showcasing Pokémon data from a
 ## 📲 Features
 
 - Browse and view Pokémon information (types, abilities, stats, etc.)
-- Multi-language support (i18n)
 - Responsive and themed UI
 - Integrates with a custom backend API
 
@@ -24,8 +23,6 @@ React Native mobile application built with Expo, showcasing Pokémon data from a
 - React Native (via Expo)
 - TypeScript
 - Axios
-- i18n
-- Styled components
 
 ---
 
