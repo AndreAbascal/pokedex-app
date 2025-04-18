@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "pokedex-app",
+    "slug": "pokedex-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "package": "com.andreabascal.pokedexapprn",
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-localization"
+    ],
+    "extra": {
+      "webClientId": "863190097362-10o9movcu2l69ob8cg6lr1lu986dqmso.apps.googleusercontent.com",
+      "apiHost": "http://192.168.18.39:3000",
+      "eas": {
+        "projectId": "220574c2-6a78-480a-a66c-e9d325e0124d"
+      }
+    },
+    "owner": "andreabascal"
+  }
+}
